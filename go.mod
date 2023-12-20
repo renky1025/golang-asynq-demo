@@ -5,6 +5,7 @@ go 1.20
 require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/hibiken/asynq v0.24.1
+	github.com/panjf2000/ants/v2 v2.9.0
 )
 
 require (
